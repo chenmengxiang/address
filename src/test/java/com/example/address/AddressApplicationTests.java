@@ -32,7 +32,7 @@ public class AddressApplicationTests {
 		String cc = "221";
 
 		cc = "2228111111";
-		String ww = "bba";
+		String ww = "bcba";
 		
 		System.out.println(addressService.addressResolution(userInfo));
 		
