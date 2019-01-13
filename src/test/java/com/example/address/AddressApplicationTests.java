@@ -30,8 +30,13 @@ public class AddressApplicationTests {
 		String aa = "11";
 		String bb ="aa";
 		String cc = "221";
+<<<<<<< HEAD
 
 		cc = "222188811";
+=======
+
+		cc = "2221888111111";
+>>>>>>> refs/remotes/origin/dev
 		
 		System.out.println(addressService.addressResolution(userInfo));
 		
