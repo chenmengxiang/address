@@ -30,6 +30,7 @@ public class AddressApplicationTests {
 		String aa = "11";
 		String bb ="aa";
 		String cc = "221";
+		cc = "222";
 		
 		System.out.println(addressService.addressResolution(userInfo));
 		
