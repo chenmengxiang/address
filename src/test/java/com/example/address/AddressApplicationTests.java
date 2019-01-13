@@ -23,7 +23,9 @@ public class AddressApplicationTests {
 		
 		UserInfo userInfo = new UserInfo();
 		
-		userInfo.setHomeAddress1("上海市虹口区男");
+		userInfo.setHomeAddress1("上海市虹口区男11");
+		
+		System.out.println("ss");
 		
 		
 		System.out.println(addressService.addressResolution(userInfo));
