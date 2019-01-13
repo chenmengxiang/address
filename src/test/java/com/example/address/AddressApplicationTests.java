@@ -23,7 +23,7 @@ public class AddressApplicationTests {
 		
 		UserInfo userInfo = new UserInfo();
 		
-		userInfo.setHomeAddress1("上海市虹口区");
+		userInfo.setHomeAddress1("上海市虹口区啊啊");
 		
 		
 		System.out.println(addressService.addressResolution(userInfo));
