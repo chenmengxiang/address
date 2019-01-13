@@ -28,7 +28,7 @@ public class AddressApplicationTests {
 		System.out.println("ss");
 		
 		String aa = "11";
-		
+		String bb;
 		
 		System.out.println(addressService.addressResolution(userInfo));
 		
