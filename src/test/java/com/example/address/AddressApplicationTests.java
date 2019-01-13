@@ -24,6 +24,7 @@ public class AddressApplicationTests {
 		UserInfo userInfo = new UserInfo();
 		
 		userInfo.setHomeAddress1("上海市虹口区");
+		String aa = "dd";
 		
 		
 		System.out.println(addressService.addressResolution(userInfo));
