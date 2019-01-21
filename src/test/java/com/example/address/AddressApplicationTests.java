@@ -33,7 +33,7 @@ public class AddressApplicationTests {
 
 		cc = "2228111111";
 
-		String ww = "bcbaava";
+		//String ww = "bcbaava";
 		
 		System.out.println(addressService.addressResolution(userInfo));
 		
