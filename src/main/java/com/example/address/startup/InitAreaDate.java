@@ -33,7 +33,7 @@ public class InitAreaDate implements CommandLineRunner {
 		
 		AddressServiceImpl.provinces.add(areaInfo2);
 		
-		String aa = null;
+	
 		
 		log.info("InitAreaDate end...........");
 		
