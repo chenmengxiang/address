@@ -3,7 +3,7 @@ package com.example.address.entity;
 /**
  * 用户报文信息
  * @author chenmengxiang3
- *
+ *kkkkk
  */
 public class UserInfo {
 	
