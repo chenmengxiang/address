@@ -8,9 +8,9 @@ public class AreaCity {
 	
 	private String district;
 
-	public String getProvince() {
-		return province;
-	}
+	//public String getProvince() {
+	//	return province;
+//	}
 
 	public void setProvince(String province) {
 		this.province = province;
