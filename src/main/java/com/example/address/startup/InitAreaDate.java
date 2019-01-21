@@ -33,9 +33,9 @@ public class InitAreaDate implements CommandLineRunner {
 		
 		AddressServiceImpl.provinces.add(areaInfo2);
 		
-	
 		
-		log.info("InitAreaDate end...........");
+		
+		//log.info("InitAreaDate end...........");
 		
 		
 	}
