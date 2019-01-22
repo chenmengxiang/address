@@ -25,7 +25,7 @@ public class AddressApplicationTests {
 		
 		userInfo.setHomeAddress1("上海市虹口区男11");
 		
-		System.out.println("ss");
+		//System.out.println("ss");
 		
 		String aa = "11";
 		String bb ="aa";
